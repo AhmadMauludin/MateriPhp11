@@ -63,6 +63,6 @@ Untuk menggabungkan dua string atau variabel dalam PHP, gunakan operator titik (
 ```
 $nama_depan = "Budi";
 $nama_belakang = "Santoso";
-echo $nama_depan . " " . $nama_belakang; // Output: Budi Santoso`
+echo $nama_depan . " " . $nama_belakang; // Output: Budi Santoso
 ```
 
