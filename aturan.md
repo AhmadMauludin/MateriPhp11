@@ -48,7 +48,10 @@ Komentar digunakan untuk memberi catatan pada kode dan tidak akan dieksekusi ole
 // Ini adalah komentar satu baris`
 ```
 atau
-`# Ini juga komentar satu baris (style Unix/Perl)`
+```
+# Ini juga komentar satu baris (style Unix/Perl)`
+```
+atau
 ```
 /*
   Ini adalah komentar
