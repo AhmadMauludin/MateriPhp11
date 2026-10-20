@@ -40,7 +40,7 @@ Variabel digunakan untuk menyimpan data dan harus mengikuti aturan berikut:
 ```
 $nama = "John";     // Valid
 $_umur = 25;       // Valid
-//$1nilai = 100;   // TIDAK VALID (diawali angka)
+$1nilai = 100;   // TIDAK VALID (diawali angka)
 ```
 5. Komentar dalam PHP
 Komentar digunakan untuk memberi catatan pada kode dan tidak akan dieksekusi oleh server.
