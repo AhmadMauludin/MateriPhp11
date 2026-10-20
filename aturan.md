@@ -3,12 +3,10 @@
 ## 1. Tag Dasar PHP
 Skrip PHP diawali dengan tag `<?php` dan diakhiri dengan `?>`. File yang berisi kode PHP harus disimpan dengan ekstensi `.php`.
 
-```
 <?php
 // Kode PHP ditulis di dalam sini
 echo "Hello, World!";
 ?>
-```php
 
 2. Karakter Penutup (Semicolon)
 Setiap perintah atau instruksi dalam PHP wajib diakhiri dengan tanda titik koma (;).
