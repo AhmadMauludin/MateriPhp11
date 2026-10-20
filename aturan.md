@@ -18,8 +18,8 @@ echo "Baris kedua";
 
 3. Sensitivitas Huruf Besar/Kecil (Case Sensitivity)
  * Tidak Peka (Case-Insensitive): Kata kunci (keywords) bawaan PHP seperti if, else, while, echo, serta nama fungsi dan kelas tidak membedakan huruf besar dan kecil.
-   ECHO "Hello";
 ```
+ECHO "Hello";
 echo "Hello";
 EcHo "Hello"; // Ketiganya menghasilkan output yang sama
 ```
@@ -44,8 +44,10 @@ $_umur = 25;       // Valid
 ```
 5. Komentar dalam PHP
 Komentar digunakan untuk memberi catatan pada kode dan tidak akan dieksekusi oleh server.
-`// Ini adalah komentar satu baris`
-
+```
+// Ini adalah komentar satu baris`
+```
+atau
 `# Ini juga komentar satu baris (style Unix/Perl)`
 ```
 /*
@@ -58,8 +60,6 @@ Untuk menggabungkan dua string atau variabel dalam PHP, gunakan operator titik (
 ```
 $nama_depan = "Budi";
 $nama_belakang = "Santoso";
+echo $nama_depan . " " . $nama_belakang; // Output: Budi Santoso`
 ```
-
-`echo $nama_depan . " " . $nama_belakang; // Output: Budi Santoso`
-
 
