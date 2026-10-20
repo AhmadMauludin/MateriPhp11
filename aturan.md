@@ -25,8 +25,8 @@ EcHo "Hello"; // Ketiganya menghasilkan output yang sama
 ```
 
  * Peka (Case-Sensitive): Nama variabel sangat membedakan huruf besar dan kecil.
-   $color = "merah";
 ```
+$color = "merah";
 echo $color; // Berhasil
 echo $COLOR; // Error atau undefined variable
 ```
